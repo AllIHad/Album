@@ -54,3 +54,8 @@ footer {
   width: 100%;
   box-sizing: border-box;
 }
+
+.banner {
+  align-items: center;
+  display: inline-block;
+}

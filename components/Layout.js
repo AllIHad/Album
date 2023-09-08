@@ -4,11 +4,11 @@ export default function Layout({ children }) {
   return (
     <div className="layout">
       <header>
-        <Link href="/">
+        <Link href="/" legacyBehavior>
           <a>
             <h1>
               <span>Just Add</span>
-              <span>Marmite</span>
+              <span>Album</span>
             </h1>
             <h2>Spread The Joy</h2>
           </a>
